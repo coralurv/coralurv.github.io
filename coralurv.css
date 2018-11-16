@@ -65,6 +65,7 @@ body{font: 300 16px 'OpenSans',sans-serif;background-color:#f8f8f8;color:#333;ma
 #social a:hover{
 	opacity: .7
 }
+#social a.instagram{background-image:url('assets/instagram.png')}
 #social a.facebook{background-image:url('assets/facebook.png')}
 #social a.twitter{background-image:url('assets/twitter.png')}
 #social a.youtube{background-image:url('assets/youtube.png')}
